@@ -1,0 +1,29 @@
+{
+  "name": "class-validator-same-as",
+  "version": "1.0.0",
+  "description": "Adds Is Same As constraint to class-validator",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "prepublish": "npm run build",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivankayzer/class-validator-same-as.git"
+  },
+  "author": "Ivan Kayzer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivankayzer/class-validator-same-as/issues"
+  },
+  "homepage": "https://github.com/ivankayzer/class-validator-same-as#readme",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "class-validator": "^0.11.0"
+  }
+}
