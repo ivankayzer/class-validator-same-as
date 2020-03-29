@@ -1,6 +1,6 @@
 {
   "name": "class-validator-same-as",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adds Is Same As constraint to class-validator",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
